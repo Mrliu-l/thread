@@ -1,4 +1,4 @@
-package com.Mrliu.thread;
+package com.Mrliu.thread.base;
 
 import java.util.concurrent.TimeUnit;
 
